@@ -1,0 +1,45 @@
+.post, .page {
+    margin: 0 !important;
+}
+
+#aboutPageCarousel .carousel-caption>p:first-child {
+  font-size: 40px;
+  position: relative;
+  top: 65%;
+  left: -19%; 
+}
+
+.about-content {
+  margin: 4em 0 4em 6em !important;
+}
+
+.about-content>p {
+  font-size: 16px !important;
+}
+
+@media (max-width: 872px) {
+  .about-content {
+    margin: 4em 0 4em 0 !important;
+  }
+
+  #ssl-pay-content>img {
+    width: 100%;
+    margin: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .navbar-default .navbar-nav .open .dropdown-menu>li>a {
+    color: #fff !important;
+  }
+}
+
+@media (max-width: 766px) {
+    #aboutPageCarousel .carousel-caption>p:first-child {
+	  position: relative;
+	  top: 65%;
+	  left: -9%; 
+    }
+}
+
+
