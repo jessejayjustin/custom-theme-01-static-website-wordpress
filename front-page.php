@@ -199,7 +199,7 @@ get_header();
 			    </div>
 			</div>
 
-			<div class="sister-concerns">
+			<div class="our-sister-concerns">
 			    <div class="wrapper text-center">
 			      <h3 class="text-center">our sister concerns</h3>
 			      <ul>
