@@ -57,24 +57,24 @@
   margin-left: 100px;
 }
 
-#colocationTabContent .colocation-page-tab-content {
+#colocationPageTabContent .colocation-page-tab-content {
   display: flex;
 }
 
-#colocationTabContent .colocation-page-tab-content img {
+#colocationPageTabContent .colocation-page-tab-content img {
   width: 49%;
   height: 420px;
   margin: 30px 50px 40px 0px;
 }
 
-#colocationTabContent .colocation-page-tab-content .tab-caption>h3 {
+#colocationPageTabContent .colocation-page-tab-content .tab-caption>h3 {
   font-size: 24px;
   font-family: 'Open Sans';
   font-weight: 600;
   margin-top: 75px;
 }
 
-#colocationTabContent .colocation-page-tab-content .tab-caption>p {
+#colocationPageTabContent .colocation-page-tab-content .tab-caption>p {
   font-size: 16px;
   font-family: 'Open Sans';
   font-weight: 400;
@@ -83,15 +83,15 @@
 }
 
 @media (max-width : 990px) {
-  #colocationTabContent .c#colocationTabContent .colocation-page-tab-content {
+  #colocationPageTabContent .colocation-page-tab-content {
     display: none;
   }
   
-  #colocationTabContent .colocation-page-tab-content .tab-caption .tab-button {
+  #colocationPageTabContent .colocation-page-tab-content .tab-caption .tab-button {
     display: none;
   }
 
-  #colocationTabContent .colocation-page-tab-content {
+  #colocationPageTabContent .colocation-page-tab-content {
     display: block;
   }
 
@@ -99,19 +99,19 @@
     display: block;
   }
 
-  #colocationTabContent .colocation-page-tab-content>img {
+  #colocationPageTabContent .colocation-page-tab-content>img {
     width: 100%;
     height: 100%;
     margin-top: 10px;
     margin-right: 0px;
   }
 
-  #colocationTabContent .colocation-page-tab-content .tab-caption>p {
+  #colocationPageTabContent .colocation-page-tab-content .tab-caption>p {
     font-size: 17px;
     margin: 10px 0 0 10px;
   }
 
-  #colocationTabContent .colocation-page-tab-content .tab-caption>h3 {
+  #colocationPageTabContent .colocation-page-tab-content .tab-caption>h3 {
     font-size: 25px;
     font-weight: normal;
     font-family: 'Acme';
