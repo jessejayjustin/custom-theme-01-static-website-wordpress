@@ -433,7 +433,7 @@
   margin: 0 auto;
 }
 
-.sister-concerns h3 {
+.our-sister-concerns h3 {
   font-size: 40px;
   font-family: 'Yanone Kaffeesatz';
   font-weight: 600;
@@ -441,18 +441,18 @@
   text-transform: uppercase;
 }
 
-.sister-concerns ul {
+.our-sister-concerns ul {
   margin-left: 15px;
 }
 
-.sister-concerns ul li {
+.our-sister-concerns ul li {
   float: left;
   width: 32%;
   margin: 2.6% 0;
   list-style-type: none;
 }
 
-.sister-concerns ul li img {
+.our-sister-concerns ul li img {
   width: 250px;
 }
 
@@ -845,11 +845,11 @@
     max-height: 100%;
   }
 
-  .sister-concerns ul {
+  .our-sister-concerns ul {
     margin-left: -38px;
   }
 
-  .sister-concerns ul li {
+  .our-sister-concerns ul li {
     float: left;
     width: 100%;
     margin: 0;
