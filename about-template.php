@@ -20,7 +20,7 @@ get_header();
 		    </div>
 		</div>   
 
-	    <div class="about-content col-lg-7 col-md-7 col-sm-10">
+	    <div class="about-page-content col-lg-7 col-md-7 col-sm-10">
 		    <p>Donec interdum, lacus ac mollis maximus, massa magna laoreet mauris, nec viverra neque lectus nec arcu. Etiam dictum eros ac erat lobortis, eget imperdiet ligula congue. Vivamus cursus purus vitae sollicitudin tincidunt. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur tellus augue, viverra non iaculis eget, commodo vitae nisl. Nam hendrerit, odio nec ultricies consequat, nisl dolor laoreet nisi, sed tincidunt libero quam quis ligula.</p>
 
 		    <p>Vestibulum non mauris eu purus feugiat dictum. Integer hendrerit gravida porttitor. Suspendisse eu venenatis odio. Sed et rutrum tortor. Aenean id dictum nunc, in facilisis orci. Sed nec eleifend augue. Suspendisse a ex semper turpis efficitur porttitor at ac elit. Fusce id mollis sapien.</p>
