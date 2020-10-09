@@ -29,7 +29,7 @@ get_header();
       </li>
     </ul>
 
-    <div class="tab-content" id="colocationTabContent">
+    <div class="tab-content" id="colocationPageTabContent">
       <div class="tab-pane active in" id="cloud" role="tabpanel" aria-labelledby="cloud-tab">
         <div class="colocation-page-tab-content">
           <img class="img-responsive" src="<?php echo(get_template_directory_uri()); ?>/images/cloud_computing.jpg" alt="cloud_computing">
